@@ -1,0 +1,7 @@
+Bölme,Grup,n,"ICC(2,1)",%95 GA (bootstrap),Spearman-Brown (tam kayıt)
+İlk yarı / ikinci yarı,Tümü,164,0.405,"[0.234, 0.535]",0.577
+İlk yarı / ikinci yarı,PD,92,0.434,"[0.228, 0.598]",0.605
+İlk yarı / ikinci yarı,Kontrol,72,0.254,"[0.064, 0.429]",0.405
+Tek / çift sıra,Tümü,164,0.52,"[0.351, 0.648]",0.684
+Tek / çift sıra,PD,92,0.584,"[0.381, 0.726]",0.737
+Tek / çift sıra,Kontrol,72,0.288,"[0.088, 0.471]",0.447

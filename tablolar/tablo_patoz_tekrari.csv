@@ -1,0 +1,5 @@
+Ölçü,PD ort ± SS,Kontrol ort ± SS,Fark,Student p,Welch p,Cohen d
+Dönüş ayıklamalı CV,4.20 ± 1.81,3.52 ± 0.95,0.682,0.029,0.02,0.46
+Ana CV,9.16 ± 3.18,7.92 ± 2.52,1.233,0.042,0.037,0.42
+Sağ tek destek CV,8.65 ± 2.98,7.93 ± 2.90,0.725,0.23,0.23,0.25
+Ortalama tek destek (s),0.37 ± 0.04,0.40 ± 0.03,-0.023,0.0016,0.0012,-0.67
